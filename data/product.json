@@ -11,7 +11,7 @@
     "shortDescription": "Мощный ноутбук для работы, учёбы и развлечений.",
     "description": "15.6\" IPS 4K, Intel Core i7, 16 ГБ RAM, 512 ГБ SSD. Корпус алюминиевый, клавиатура с подсветкой, Wi-Fi 6E, Bluetooth 5.3.",
     "images": [
-      "https://raw.githubusercontent.com/<user>/<repo>/<branch>/images/laptop-pro.webp"
+      "https://raw.githubusercontent.com//Sphia123/estore-data/main/public/laptop.png"
     ],
     "categories": ["Ноутбуки"],
     "tags": ["intel", "16gb", "4k", "wifi6"],
