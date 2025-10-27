@@ -1,4 +1,5 @@
 [
+  [
   {
     "id": "lp-001",
     "name": "Laptop Pro 15",
@@ -25,6 +26,84 @@
     }
   },
   {
+    "id": "lp-002",
+    "name": "Laptop Pro 15",
+    "slug": "laptop-pro-15",
+    "price": 1200,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 132,
+    "shortDescription": "Мощный ноутбук для работы, учёбы и развлечений.",
+    "description": "15.6\" IPS 4K, Intel Core i7, 16 ГБ RAM, 512 ГБ SSD. Корпус алюминиевый, клавиатура с подсветкой, Wi-Fi 6E, Bluetooth 5.3.",
+    "images": [
+      "https://raw.githubusercontent.com//Sphia123/estore-data/main/public/laptop.png"
+    ],
+    "categories": ["Ноутбуки"],
+    "tags": ["intel", "16gb", "4k", "wifi6"],
+    "specs": {
+      "Экран": "15.6\" IPS 3840×2160 (4K)",
+      "Процессор": "Intel Core i7-13700H",
+      "ОЗУ": "16 ГБ DDR5",
+      "SSD": "512 ГБ NVMe",
+      "Вес": "1.6 кг",
+      "ОС": "Windows 11"
+    }
+  },
+  {
+    "id": "lp-003",
+    "name": "Laptop Pro 15",
+    "slug": "laptop-pro-15",
+    "price": 1200,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 132,
+    "shortDescription": "Мощный ноутбук для работы, учёбы и развлечений.",
+    "description": "15.6\" IPS 4K, Intel Core i7, 16 ГБ RAM, 512 ГБ SSD. Корпус алюминиевый, клавиатура с подсветкой, Wi-Fi 6E, Bluetooth 5.3.",
+    "images": [
+      "https://raw.githubusercontent.com//Sphia123/estore-data/main/public/laptop.png"
+    ],
+    "categories": ["Ноутбуки"],
+    "tags": ["intel", "16gb", "4k", "wifi6"],
+    "specs": {
+      "Экран": "15.6\" IPS 3840×2160 (4K)",
+      "Процессор": "Intel Core i7-13700H",
+      "ОЗУ": "16 ГБ DDR5",
+      "SSD": "512 ГБ NVMe",
+      "Вес": "1.6 кг",
+      "ОС": "Windows 11"
+    }
+  },
+
+]
+
+ {
+    "id": "spx-001",
+    "name": "Smartphone X",
+    "slug": "smartphone-x",
+    "price": 850,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 89,
+    "shortDescription": "Флагманский смартфон с OLED-дисплеем и высокой скоростью.",
+    "description": "6.5\" OLED 120 Гц, 256 ГБ, 8 ГБ RAM, 4800 мА·ч, камеры 50+12+10 Мп, 5G, NFC, защита IP68.",
+    "images": [
+      "https://raw.githubusercontent.com//Sphia123/estore-data/main/public/smartphone.png"
+    ],
+    "categories": ["Смартфоны"],
+    "tags": ["oled", "120hz", "camera", "5g"],
+    "specs": {
+      "Экран": "6.5\" OLED 120 Гц",
+      "Память": "256 ГБ",
+      "RAM": "8 ГБ",
+      "Камеры": "50+12+10 Мп",
+      "Батарея": "4800 мА·ч",
+      "SIM": "Dual nanoSIM + eSIM"
+    }
+  },
+{
     "id": "spx-002",
     "name": "Smartphone X",
     "slug": "smartphone-x",
@@ -49,6 +128,7 @@
       "SIM": "Dual nanoSIM + eSIM"
     }
   },
+
   {
     "id": "wh-003",
     "name": "Wireless Headphones",
