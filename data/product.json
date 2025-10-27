@@ -76,56 +76,33 @@
       "ОС": "Windows 11"
     }
   },
-  {
-    "id": "ph-001",
-    "name": "Smartphone X",
-    "slug": "smartphone-x",
-    "price": 800,
-    "currency": "RUB",
-    "inStock": true,
-    "rating": 4.8,
-    "reviewsCount": 190,
-    "shortDescription": "Флагманский смартфон с камерой 48 МП.",
-    "description": "6.5\" AMOLED 120 Гц, 256 ГБ, беспроводная зарядка, защита IP68.",
-    "images": [
-      "https://raw.githubusercontent.com/Sphia123/estore-data/main/public/phone.png"
-    ],
-    "categories": ["Телефоны"],
-    "tags": ["android", "wireless-charge", "ip68"],
-    "specs": {
-      "Экран": "6.5\" AMOLED 120 Гц",
-      "Память": "256 ГБ",
-      "Камера": "48 МП",
-      "SIM": "Dual eSIM + nanoSIM",
-      "Защита": "IP68"
-    }
-  },
-  {
-    "id": "ph-001",
-    "name": "Smartphone X",
-    "slug": "smartphone-x",
-    "price": 800,
-    "currency": "RUB",
-    "inStock": true,
-    "rating": 4.8,
-    "reviewsCount": 190,
-    "shortDescription": "Флагманский смартфон с камерой 48 МП.",
-    "description": "6.5\" AMOLED 120 Гц, 256 ГБ, беспроводная зарядка, защита IP68.",
-    "images": [
-      "https://raw.githubusercontent.com/Sphia123/estore-data/main/public/phone.png"
-    ],
-    "categories": ["Телефоны"],
-    "tags": ["android", "wireless-charge", "ip68"],
-    "specs": {
-      "Экран": "6.5\" AMOLED 120 Гц",
-      "Память": "256 ГБ",
-      "Камера": "48 МП",
-      "SIM": "Dual eSIM + nanoSIM",
-      "Защита": "IP68"
-    }
-  },
  {
     "id": "spx-001",
+    "name": "Smartphone X",
+    "slug": "smartphone-x",
+    "price": 850,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 89,
+    "shortDescription": "Флагманский смартфон с OLED-дисплеем и высокой скоростью.",
+    "description": "6.5\" OLED 120 Гц, 256 ГБ, 8 ГБ RAM, 4800 мА·ч, камеры 50+12+10 Мп, 5G, NFC, защита IP68.",
+    "images": [
+      "https://raw.githubusercontent.com//Sphia123/estore-data/main/public/smartphone.png"
+    ],
+    "categories": ["Смартфоны"],
+    "tags": ["oled", "120hz", "camera", "5g"],
+    "specs": {
+      "Экран": "6.5\" OLED 120 Гц",
+      "Память": "256 ГБ",
+      "RAM": "8 ГБ",
+      "Камеры": "50+12+10 Мп",
+      "Батарея": "4800 мА·ч",
+      "SIM": "Dual nanoSIM + eSIM"
+    }
+  },
+  {
+    "id": "spx-002",
     "name": "Smartphone X",
     "slug": "smartphone-x",
     "price": 850,
