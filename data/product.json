@@ -25,57 +25,6 @@
     }
   },
   {
-    "id": "lp-002",
-    "name": "Laptop Air 14",
-    "slug": "laptop-air-14",
-    "price": 950,
-    "currency": "RUB",
-    "inStock": true,
-    "rating": 4.5,
-    "reviewsCount": 88,
-    "shortDescription": "Тонкий и лёгкий ноутбук для путешествий и работы.",
-    "description": "14\" IPS Full HD, Intel Core i5, 8 ГБ RAM, 256 ГБ SSD. Вес 1.2 кг, батарея до 12 часов.",
-    "images": [
-      "https://raw.githubusercontent.com/Sphia123/estore-data/main/public/laptop.png"
-    ],
-    "categories": ["Ноутбуки"],
-    "tags": ["intel", "8gb", "lightweight", "battery"],
-    "specs": {
-      "Экран": "14\" IPS 1920×1080 (Full HD)",
-      "Процессор": "Intel Core i5-1235U",
-      "ОЗУ": "8 ГБ DDR4",
-      "SSD": "256 ГБ NVMe",
-      "Вес": "1.2 кг",
-      "ОС": "Windows 11"
-    }
-  },
-  {
-    "id": "lp-003",
-    "name": "Laptop Gamer 17",
-    "slug": "laptop-gamer-17",
-    "price": 1800,
-    "currency": "RUB",
-    "inStock": false,
-    "rating": 4.9,
-    "reviewsCount": 241,
-    "shortDescription": "Игровой ноутбук с видеокартой RTX и мощным охлаждением.",
-    "description": "17.3\" IPS 165 Гц, Intel Core i9, RTX 4070, 32 ГБ RAM, 1 ТБ SSD.",
-    "images": [
-      "https://raw.githubusercontent.com/Sphia123/estore-data/main/public/laptop.png"
-    ],
-    "categories": ["Ноутбуки"],
-    "tags": ["intel", "32gb", "rtx4070", "gaming"],
-    "specs": {
-      "Экран": "17.3\" IPS 2560×1440 (165 Гц)",
-      "Процессор": "Intel Core i9-13900HX",
-      "Видеокарта": "NVIDIA RTX 4070 8 ГБ",
-      "ОЗУ": "32 ГБ DDR5",
-      "SSD": "1 ТБ NVMe",
-      "Вес": "2.8 кг",
-      "ОС": "Windows 11"
-    }
-  },
-  {
     "id": "ph-001",
     "name": "Smartphone X",
     "slug": "smartphone-x",
